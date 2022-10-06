@@ -7,3 +7,7 @@ body {
 #Livraria {
     width: 100%;
 }
+
+.itens {
+    font-style: italic; text-align: center;
+}
