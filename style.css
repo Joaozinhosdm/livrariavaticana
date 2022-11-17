@@ -2,12 +2,21 @@ p {
     text-align: center;
 }
 body {
-    background: #e6de7b;
+    background: #299fce;
 }
 #Livraria {
     width: 100%;
 }
 
+}
 .itens {
     font-style: italic; 
+}
+
+.beneficios {
+    background: #6eaad1;
+}
+
+h2 {
+    text-align: center;
 }
